@@ -1,0 +1,15 @@
+.cart{
+    width: 490px;
+    height: 135px;
+    background-color:#edc53169 ;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.photo{
+    width: 70px;
+    height: 72px;
+}
+.col:hover,
+.photo:hover{
+    scale: 1.1;
+}

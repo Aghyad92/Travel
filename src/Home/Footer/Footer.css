@@ -1,0 +1,17 @@
+.mark{
+    width: 32px;
+    height: 32px;
+    background-color: #2d313500 !important;
+}
+.pack a{
+    text-decoration: none;
+    color: #fff;
+}
+.box{
+    margin-left: 55px;
+}
+@media (max-width:767px) {
+    .box{
+        margin-left: 120px;
+    }
+}

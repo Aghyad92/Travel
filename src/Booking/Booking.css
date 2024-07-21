@@ -1,0 +1,55 @@
+.book{
+    position: absolute;
+    top: 630px;
+    left: 4%;
+    width: 1000px;
+    height: 122px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    border-radius: 25px 0px 0px 0px;
+}
+.con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    width: 217px;
+    margin-top: -327px;
+    padding: 11px;
+    border-radius: 12px;
+    background-color: #0000007d;
+    color: #fff;
+    display: none;
+}
+.destination:hover{
+    
+}
+.con1{
+    margin-top: 27px;
+    border-bottom: 1px solid;
+    width: 150px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.con2{
+    margin-top: 27px;
+    border-bottom: 1px solid;
+    width: 200px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+.b{
+    position: absolute;
+    right: -108px;
+    padding: 37px;
+    top: 0px;
+    border: none;
+    border-radius: 0px 25px 25px 0px;
+    background-color: #343a40;
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+.pay{
+    margin-top: 100px;
+    background-color: #D6D6D6;
+}
+.to{
+    margin-top: -15px;
+}
+@media (max-width:767px) {
+    .photo5{
+        width: 400px;
+        height: 400px;
+    }
+}

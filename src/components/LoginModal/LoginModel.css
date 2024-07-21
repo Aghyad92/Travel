@@ -1,0 +1,50 @@
+.model{
+    width: 540px;
+    height: 694px;
+    background-color: #343a40cc;
+    position: absolute;
+    z-index: 2;
+    right: 24px;
+    border-radius: 15px;
+    color: #fff;
+    margin-top: 8px;
+}
+.wel{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 65px;
+}
+#email,
+#password{
+    width: 450px;
+    height: 57px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 24px;
+    
+}
+.password{
+    margin-left: -99px !important;
+    margin-top: 18px !important;
+    
+}
+.email{
+    margin-left: -42px !important;
+    margin-top: 18px !important;
+    
+}
+.exit{
+    margin-left: 472px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.b1{
+    margin: 82px 38px;
+    
+}
+.e,.p{
+    background-color: #343A40;
+}
+.reme{
+    margin-left: 5px;
+}

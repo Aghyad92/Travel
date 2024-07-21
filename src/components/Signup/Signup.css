@@ -1,0 +1,41 @@
+.model{
+    width: 540px;
+    height: 694px;
+    background-color: #343a40cc;
+    position: absolute;
+    z-index: 2;
+    right: 24px;
+    border-radius: 15px;
+    color: #fff;
+}
+#name{
+    width: 450px;
+    height: 57px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 24px;
+    
+}
+.name{
+    margin-left: -310px !important;
+   
+}
+.email2{
+    margin-left: -169px !important; 
+}
+.n{
+    background-color: #343A40;
+    margin-bottom: 10px !important;
+    color: #fff;
+}
+.password2{
+    margin-left: -280px !important;
+}
+.agree{
+    margin-left: -174px;
+    margin-top: 10px;
+}
+.b2{
+    margin: 82px 38px;
+    padding: 10px 200px !important;
+}

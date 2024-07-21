@@ -1,0 +1,19 @@
+.pic{
+    width: 50px;
+    height: 50px;
+}
+.one,.two,.three,.four{
+    width: 250px;
+    height: 150px;
+}
+.one:hover,
+.two:hover,
+.three:hover,
+.four:hover{
+    scale: 1.1;
+}
+@media (max-width:767px) {
+    .ser{
+        margin: 0px 81px;
+    }
+}

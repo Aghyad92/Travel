@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.c9b3185c.css",
+    "main.js": "/Travel/static/js/main.8fce5c0f.js",
+    "static/js/453.ed3810f9.chunk.js": "/Travel/static/js/453.ed3810f9.chunk.js",
+    "static/media/Property 1=Frame 79.png": "/Travel/static/media/Property 1=Frame 79.8531c3acaabf78f50bc5.png",
+    "static/media/Property 1=Frame 80.jpg": "/Travel/static/media/Property 1=Frame 80.f81add155d7624120e1d.jpg",
+    "static/media/Property 1=Frame 81.jpg": "/Travel/static/media/Property 1=Frame 81.18a58dfab7821de3e21a.jpg",
+    "static/media/Property 1=Frame 1.jpg": "/Travel/static/media/Property 1=Frame 1.9b3e58f15803c3941d56.jpg",
+    "static/media/Map.png": "/Travel/static/media/Map.64856d0964ab7f64bb8f.png",
+    "static/media/amico.svg": "/Travel/static/media/amico.64f3e9509d8780593c978143eb3b8b65.svg",
+    "static/media/Patagonia Card Image.jpg": "/Travel/static/media/Patagonia Card Image.7d2182ca7c4131aa53e0.jpg",
+    "static/media/Iceland card image.jpg": "/Travel/static/media/Iceland card image.7300eed3a4c87a449521.jpg",
+    "static/media/Dubai card image.jpg": "/Travel/static/media/Dubai card image.babfd2dbaae4c19c8e8d.jpg",
+    "static/media/Italy card image.jpg": "/Travel/static/media/Italy card image.6508fa9776af63f3a06f.jpg",
+    "static/media/unsplash_go2Z8RFJGw4.svg": "/Travel/static/media/unsplash_go2Z8RFJGw4.62398f976d090074cd914ab578bf64d4.svg",
+    "static/media/instagram 1.svg": "/Travel/static/media/instagram 1.c56ba502b998b88829be08607cdac756.svg",
+    "static/media/CarOutlined.svg": "/Travel/static/media/CarOutlined.e42e75aee5b105c481b38e8f72e52975.svg",
+    "static/media/ContactsOutlined.svg": "/Travel/static/media/ContactsOutlined.ea1ad05800ae7c56fa8e71b89a0bb0da.svg",
+    "static/media/LikeOutlined.svg": "/Travel/static/media/LikeOutlined.54cd49c5e58e90218699bd5184f03361.svg",
+    "static/media/facebook 1.svg": "/Travel/static/media/facebook 1.cde73b7d03c14ea2f187fea86d6afcf6.svg",
+    "static/media/pinterest 1.svg": "/Travel/static/media/pinterest 1.3d1fb8e2c9f625b88d860c40d6bf8e08.svg",
+    "static/media/CheckCircleOutlined.svg": "/Travel/static/media/CheckCircleOutlined.e7fa7d1d20e98ef13197063e61371d3b.svg",
+    "static/media/_x30_4.Twitter.svg": "/Travel/static/media/_x30_4.Twitter.aef0d8a6f73eca9c7ec4468c1b7b68e1.svg",
+    "index.html": "/Travel/index.html",
+    "static/media/Frame 217.svg": "/Travel/static/media/Frame 217.28d2dac9e56a821732f2033f5e6687f0.svg",
+    "static/media/Polygon 3.svg": "/Travel/static/media/Polygon 3.435a016ee28334354e342a24074b417a.svg",
+    "main.c9b3185c.css.map": "/Travel/static/css/main.c9b3185c.css.map",
+    "main.8fce5c0f.js.map": "/Travel/static/js/main.8fce5c0f.js.map",
+    "453.ed3810f9.chunk.js.map": "/Travel/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b3185c.css",
+    "static/js/main.8fce5c0f.js"
+  ]
+}
